@@ -18,3 +18,6 @@ nai
 Con Kỳ Đà 
 Con Chó Sói
 Con Khỉ Đột
+Gà
+Mèo
+Heo 

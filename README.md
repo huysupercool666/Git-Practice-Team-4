@@ -21,3 +21,6 @@ Con Khỉ Đột
 Gà
 Mèo
 Heo 
+Bò 
+Cá Sấu
+Cá Heo

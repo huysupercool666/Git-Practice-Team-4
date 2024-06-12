@@ -8,3 +8,7 @@ bò
 dơi
 cú
 voi
+
+hươu
+khỉ
+nai

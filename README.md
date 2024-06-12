@@ -24,3 +24,6 @@ Heo
 Bò 
 Cá Sấu
 Cá Heo
+Rắn
+Rắn Hổ Mang
+Rắn Mối

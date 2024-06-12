@@ -4,3 +4,7 @@
 chuột
 heo
 bò
+
+dơi
+cú
+voi

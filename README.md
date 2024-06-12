@@ -27,3 +27,14 @@ Cá Heo
 Rắn
 Rắn Hổ Mang
 Rắn Mối
+Con mèo
+Con gà
+Con cá
+
+Con bò
+Con hươu
+Con rắn
+
+Con cua
+Con chim
+Con ốc

@@ -34,3 +34,7 @@ Con cá
 Con bò
 Con hươu
 Con rắn
+
+Con cua
+Con chim
+Con ốc

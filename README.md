@@ -30,3 +30,7 @@ Rắn Mối
 Con mèo
 Con gà
 Con cá
+
+Con bò
+Con hươu
+Con rắn
